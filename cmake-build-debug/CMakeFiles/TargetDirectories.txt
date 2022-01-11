@@ -1,0 +1,3 @@
+D:/onedrive/OneDrive - sjtu.edu.cn/c++files/digital_recognition/cmake-build-debug/CMakeFiles/digital_recognition.dir
+D:/onedrive/OneDrive - sjtu.edu.cn/c++files/digital_recognition/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/onedrive/OneDrive - sjtu.edu.cn/c++files/digital_recognition/cmake-build-debug/CMakeFiles/rebuild_cache.dir

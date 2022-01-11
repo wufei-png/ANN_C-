@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/onedrive/OneDrive - sjtu.edu.cn/c++files/digital_recognition/digital_recognition/bpnet.h
+vector
+-
+layer.h
+D:/onedrive/OneDrive - sjtu.edu.cn/c++files/digital_recognition/digital_recognition/layer.h
+
+D:/onedrive/OneDrive - sjtu.edu.cn/c++files/digital_recognition/digital_recognition/data_input.h
+fstream
+-
+
+D:/onedrive/OneDrive - sjtu.edu.cn/c++files/digital_recognition/digital_recognition/layer.h
+
+D:/onedrive/OneDrive - sjtu.edu.cn/c++files/digital_recognition/digital_recognition/main.cpp
+iostream
+-
+time.h
+-
+cstring
+-
+bpnet.h
+D:/onedrive/OneDrive - sjtu.edu.cn/c++files/digital_recognition/digital_recognition/bpnet.h
+chrono
+-
+data_input.h
+D:/onedrive/OneDrive - sjtu.edu.cn/c++files/digital_recognition/digital_recognition/data_input.h
+utils.h
+D:/onedrive/OneDrive - sjtu.edu.cn/c++files/digital_recognition/digital_recognition/utils.h
+
+D:/onedrive/OneDrive - sjtu.edu.cn/c++files/digital_recognition/digital_recognition/utils.h
+stdlib.h
+-
+math.h
+-
+iostream
+-
+iomanip
+-
+
